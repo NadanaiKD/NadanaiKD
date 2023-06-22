@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/NadanaiKD/NadanaiKD/blob/main/loop.gif" alt="animated" height="200" width="1000"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Moo</h1>
 <p align="left">
 </p>
@@ -6,7 +10,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working with code<br>- 📚 I'm currently learning about backend<br>- ⚡ In my free time I play 🎮 , read 📚 , code 💻 , more sleep 🛏 and more coffee ☕️</p>
+<p align="left">- 💻 I’m working with code<br>- 📚 I'm currently learning about backend<br>- ⚡ In my free time I play 🎮 , read 📚 , code 💻 , more sleep 🛏 and more coffee ☕️</p>
 
 ###
 <hr>
