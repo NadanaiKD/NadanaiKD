@@ -31,6 +31,8 @@
 
 <h2>Codewars</h2><img src="https://www.codewars.com/users/NadanaiKD/badges/large"/>
 
+![CODEWAR](https://github.r2v.ch/codewars?user=NadanaiKD&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+
 
 <!--
 **NadanaiKD/NadanaiKD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
