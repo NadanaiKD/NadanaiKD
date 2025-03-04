@@ -13,6 +13,12 @@
 <p align="left">- 💻 I’m working with code<br>- 📚 I'm currently learning about backend<br>- ⚡ In my free time I play 🎮 , read 📚 , code 💻 , more sleep 🛏 and more coffee ☕️</p>
 
 ###
+
+<hr>
+<h3 align="left">🏆   Github Profile Trophy :</h3>
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=NadanaiKD&theme=onedark&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+
 <hr>
 <h3 align="left">🔥   My Stats :</h3>
 
@@ -48,3 +54,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
